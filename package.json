@@ -1,0 +1,33 @@
+{
+  "name": "allex_httpresponsexmlfilelib",
+  "version": "1.0.0",
+  "description": "AllexJS library that implements the XML http response file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "xmlbuilder": "13.x"
+  },
+  "devDependencies": {
+    "xml2js": "0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/httpresponsexmlfile.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "xml",
+    "http",
+    "response",
+    "file",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/httpresponsexmlfile/issues"
+  },
+  "homepage": "https://github.com/allex-libs/httpresponsexmlfile#readme"
+}
